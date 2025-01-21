@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.46961403.css",
-    "main.js": "/resume/static/js/main.f0bd0902.js",
+    "main.js": "/resume/static/js/main.5c6cebb8.js",
     "static/media/Hello.gif": "/resume/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/Dhruvil Patel Resume.pdf": "/resume/static/media/Dhruvil Patel Resume.80fa59a45f1d278e3ab1.pdf",
     "static/media/DhruvilImage.png": "/resume/static/media/DhruvilImage.65724dd29e9cc83eb756.png",
@@ -27,10 +27,10 @@
     "static/media/linkedin.svg": "/resume/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
     "static/media/js-icon.svg": "/resume/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "main.46961403.css.map": "/resume/static/css/main.46961403.css.map",
-    "main.f0bd0902.js.map": "/resume/static/js/main.f0bd0902.js.map"
+    "main.5c6cebb8.js.map": "/resume/static/js/main.5c6cebb8.js.map"
   },
   "entrypoints": [
     "static/css/main.46961403.css",
-    "static/js/main.f0bd0902.js"
+    "static/js/main.5c6cebb8.js"
   ]
 }
