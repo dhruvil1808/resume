@@ -23,7 +23,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
-          My personal projects showcase my software development skills and problem-solving abilities. I’ve developed applications like Chat App, Atendo, and Farmer Marketplace, each highlighting my expertise in building scalable systems and solving real-world challenges. I’m proficient in various programming languages and frameworks, with a focus on full-stack development, automation, and data-driven solutions.
+          My personal projects showcase my software development skills and problem-solving abilities. I’ve developed applications like Ping, Atendo, and Farmer Marketplace, each highlighting my expertise in building scalable systems and solving real-world challenges. I’m proficient in various programming languages and frameworks, with a focus on full-stack development, automation, and data-driven solutions.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
